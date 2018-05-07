@@ -1,0 +1,7 @@
+/home/sergio/github/api-rest-listagem-gasto/src/main/java/br/com/santander/api/services/GastoService.java
+/home/sergio/github/api-rest-listagem-gasto/src/main/java/br/com/santander/api/Application.java
+/home/sergio/github/api-rest-listagem-gasto/src/main/java/br/com/santander/api/documents/Gasto.java
+/home/sergio/github/api-rest-listagem-gasto/src/main/java/br/com/santander/api/controllers/GastoController.java
+/home/sergio/github/api-rest-listagem-gasto/src/main/java/br/com/santander/api/repositories/GastoRepository.java
+/home/sergio/github/api-rest-listagem-gasto/src/main/java/br/com/santander/api/responses/Response.java
+/home/sergio/github/api-rest-listagem-gasto/src/main/java/br/com/santander/api/services/impl/GastoServiceImpl.java

@@ -1,0 +1,7 @@
+br/com/santander/api/controllers/GastoController.class
+br/com/santander/api/services/GastoService.class
+br/com/santander/api/responses/Response.class
+br/com/santander/api/services/impl/GastoServiceImpl.class
+br/com/santander/api/Application.class
+br/com/santander/api/repositories/GastoRepository.class
+br/com/santander/api/documents/Gasto.class
